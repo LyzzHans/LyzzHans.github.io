@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-# lyzzhans.github.io (jwh)
+# lyzzhans.github.io (jwh2)
